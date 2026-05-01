@@ -6,7 +6,7 @@
   },
 
   "server": {
-    "ip": "Gabbro_Stone_SMP.aternos.me", 
+    "ip": "mc-GS_SMP.aternos.me", 
     "port": 60921,   
     "version": "1.12.1"   
   },
